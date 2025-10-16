@@ -1,5 +1,11 @@
 # 💫 About Me:
-    • 🔭 I’m currently working on advanced recruitment automation and data-driven platforms at Booston, and scalable safety systems at BP.<br>	•	🌱 I’m currently learning advanced gRPC, distributed caching, and predictive AI systems for workflow optimization.<br>	•	👯 I’m looking to collaborate on large-scale microservice architectures, real-time communication, and DevOps automation.<br>	•	🤔 I’m looking for help with expanding AI-driven analytics in enterprise platforms.<br>	•	💬 Ask me about Golang, Node.js, TypeScript, system design, and performance optimization.<br>	•	📫 How to reach me: rexhmatijurgen@gmail.com<br>	•	😄 Pronouns: He/Him<br>	•	⚡ Fun fact: I’ve built and scaled applications used by thousands of professionals across Europe—entirely remote since 2016.
+🔭 I’m currently working on advanced recruitment automation and data-driven platforms at Booston, and scalable safety systems at BP.<br/>
+🌱 I’m currently learning advanced gRPC, distributed caching, and predictive AI systems for workflow optimization.<br/>
+👯 I’m looking to collaborate on large-scale microservice architectures, real-time communication, and DevOps automation.<br/>
+🤔 I’m looking for help with expanding AI-driven analytics in enterprise platforms.<br/>
+💬 Ask me about Golang, Node.js, TypeScript, system design, and performance optimization.<br/>
+📫 How to reach me: rexhmatijurgen@gmail.com<br/>
+⚡ Fun fact: I’ve built and scaled applications used by thousands of professionals across Europe—entirely remote since 2016.
 
 
 ## 🌐 Socials:
