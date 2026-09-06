@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on advanced recruitment automation and data-driven platforms at Booston, and scalable safety systems at Deliveroo BP and Doordash.<br/>
+🔭 I’m currently working on advanced recruitment automation and data-driven platforms at Booston, and scalable safety systems at Deliveroo, BP and Doordash.<br/>
 🌱 I’m currently learning advanced gRPC, distributed caching, and predictive AI systems for workflow optimization.<br/>
 👯 I’m looking to collaborate on large-scale microservice architectures, real-time communication, and DevOps automation.<br/>
 🤔 I’m looking for help with expanding AI-driven analytics in enterprise platforms.<br/>
